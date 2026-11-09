@@ -1,8 +1,11 @@
 # edifier-control
 
+[![Release](https://img.shields.io/github/v/release/4285f4/edifier-control?color=blue)](https://github.com/4285f4/edifier-control/releases/latest)
+[![License](https://img.shields.io/github/license/4285f4/edifier-control)](LICENSE)
+
 在 Windows 上通过蓝牙 BLE 控制漫步者（Edifier）降噪耳机的**音效模式**，解决"每次开机默认降噪、想要的标准模式又老是消失"的问题。
 
-单文件可执行程序，无需安装运行时、无需手机 App。
+单文件可执行程序，无需安装运行时、无需手机 App。**[下载最新版本](https://github.com/4285f4/edifier-control/releases/latest)**
 
 ```
 edifier-control.exe standard
